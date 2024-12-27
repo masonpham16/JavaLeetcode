@@ -2,6 +2,7 @@
 Leetcode solutions in Java.
 
 **[1_Two_Sum](https://github.com/masonpham16/JavaLeetcode/blob/main/1_Two_Sum.java)  **
+
 Just using simple array and the value that is in the array.
 
 
