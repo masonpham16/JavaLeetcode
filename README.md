@@ -81,7 +81,7 @@ Leetcode solutions in Java.
 
 - ...
 
-**[28_Find_the_Index_of_the_First_Occurrence_in_a_String]([https://github.com/masonpham16/JavaLeetcode/blob/main/27_Remove_Element.java](https://github.com/masonpham16/JavaLeetcode/blob/main/28_Find_the_Index_of_the_First_Occurrence_in_a_String.java))**
+**[28_Find_the_Index_of_the_First_Occurrence_in_a_String](https://github.com/masonpham16/JavaLeetcode/blob/main/28_Find_the_Index_of_the_First_Occurrence_in_a_String.java)**
 
 - .isEmpty()
 - .charAt()
