@@ -81,6 +81,13 @@ Leetcode solutions in Java.
 
 - ...
 
+**[28_Find_the_Index_of_the_First_Occurrence_in_a_String]([https://github.com/masonpham16/JavaLeetcode/blob/main/27_Remove_Element.java](https://github.com/masonpham16/JavaLeetcode/blob/main/28_Find_the_Index_of_the_First_Occurrence_in_a_String.java))**
+
+- .isEmpty()
+- .charAt()
+- .length()
+- simple loops to iterate through string
+
 **[1475_Final_Prices_With_a_Special_Discount_in_a_Shop](https://github.com/masonpham16/JavaLeetcode/blob/main/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.java)**
 
 - int[] answer = new int[prices.length]
