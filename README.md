@@ -88,6 +88,12 @@ Leetcode solutions in Java.
 - .length()
 - simple loops to iterate through string
 
+**[58_Length_of_Last_Word](https://github.com/masonpham16/JavaLeetcode/blob/main/58_Length_of_Last_Word.java)**
+
+- .trim().split("\\s+")
+- .length
+- .length()
+
 **[1475_Final_Prices_With_a_Special_Discount_in_a_Shop](https://github.com/masonpham16/JavaLeetcode/blob/main/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.java)**
 
 - int[] answer = new int[prices.length]
