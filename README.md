@@ -94,6 +94,10 @@ Leetcode solutions in Java.
 - .length
 - .length()
 
+**[66_Plus_One](https://github.com/masonpham16/JavaLeetcode/blob/main/66_Plus_One.java)**
+
+- .length
+
 **[1475_Final_Prices_With_a_Special_Discount_in_a_Shop](https://github.com/masonpham16/JavaLeetcode/blob/main/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.java)**
 
 - int[] answer = new int[prices.length]
