@@ -88,6 +88,11 @@ Leetcode solutions in Java.
 - .length()
 - simple loops to iterate through string
 
+**[35_Search_Insert_Position.java](https://github.com/masonpham16/JavaLeetcode/blob/main/35_Search_Insert_Position.java)**
+
+- binary search
+- .length (get size of array)
+
 **[58_Length_of_Last_Word](https://github.com/masonpham16/JavaLeetcode/blob/main/58_Length_of_Last_Word.java)**
 
 - .trim().split("\\s+")
