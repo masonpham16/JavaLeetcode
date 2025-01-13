@@ -109,7 +109,7 @@ Leetcode solutions in Java.
   
 **[70_Climbing_Stairs](https://github.com/masonpham16/JavaLeetcode/blob/main/70_Climbing_Stairs.java)**
 
-- long square = (long) middle*middle; // use long to prevent overflow
+- dynamic programming
 
 **[1475_Final_Prices_With_a_Special_Discount_in_a_Shop](https://github.com/masonpham16/JavaLeetcode/blob/main/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.java)**
 
