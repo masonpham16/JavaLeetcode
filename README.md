@@ -88,7 +88,7 @@ Leetcode solutions in Java.
 - .length()
 - simple loops to iterate through string
 
-**[35_Search_Insert_Position.java](https://github.com/masonpham16/JavaLeetcode/blob/main/35_Search_Insert_Position.java)**
+**[35_Search_Insert_Position](https://github.com/masonpham16/JavaLeetcode/blob/main/35_Search_Insert_Position.java)**
 
 - binary search
 - .length (get size of array)
@@ -104,6 +104,10 @@ Leetcode solutions in Java.
 - .length
   
 **[69_Sqrt_x](https://github.com/masonpham16/JavaLeetcode/blob/main/69_Sqrt_x.java)**
+
+- long square = (long) middle*middle; // use long to prevent overflow
+  
+**[70_Climbing_Stairs](https://github.com/masonpham16/JavaLeetcode/blob/main/70_Climbing_Stairs.java)**
 
 - long square = (long) middle*middle; // use long to prevent overflow
 
