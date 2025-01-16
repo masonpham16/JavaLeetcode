@@ -44,6 +44,12 @@ Leetcode solutions in Java.
 - StringBuilder
 - .toString()
 
+**[7_Reverse_Integer](https://github.com/masonpham16/JavaLeetcode/blob/main/7_Reverse_Integer.java)**
+
+- Integer.MAX_VALUE
+- Integer.MIN_VALUE
+- (Overflow detection)
+
 **[9_Palindrome_Number](https://github.com/masonpham16/JavaLeetcode/blob/main/9_Palindrome_Number.java)**
 
 - Integer.toString()
