@@ -103,6 +103,15 @@ Leetcode solutions in Java.
 
 - .length
   
+**[67_Add_Binary](https://github.com/masonpham16/JavaLeetcode/blob/main/67_Add_Binary.java)**
+
+- .length()
+- StringBuilder()
+- int variable = (condition) ? true_case : false_case;
+- .append()
+- .reverse()
+- .toString()
+  
 **[69_Sqrt_x](https://github.com/masonpham16/JavaLeetcode/blob/main/69_Sqrt_x.java)**
 
 - long square = (long) middle*middle; // use long to prevent overflow
