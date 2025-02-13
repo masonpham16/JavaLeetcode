@@ -140,6 +140,11 @@ Leetcode solutions in Java.
 - recursion
 - Inorder tree traversal
 - Arraylist
+
+**[100_Same_Tree](https://github.com/masonpham16/JavaLeetcode/blob/main/100_Same_Tree.java)**
+
+- recursion (Two recursions at once)
+- check all subtrees the same way for both trees so I know that all nodes are identical
    
 **[1475_Final_Prices_With_a_Special_Discount_in_a_Shop](https://github.com/masonpham16/JavaLeetcode/blob/main/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.java)**
 
