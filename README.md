@@ -151,4 +151,50 @@ Leetcode solutions in Java.
 - int[] answer = new int[prices.length]
 
 ---
-### More to come
+-Notes:
+
+Tree traversal:
+public void inOrderTraversal(TreeNode root) {
+    if (root == null) return;             // Base case
+    
+    inOrderTraversal(root.left);          // 1. Go left
+    System.out.print(root.val + " ");     // 2. Visit node
+    inOrderTraversal(root.right);         // 3. Go right
+}
+
+main differences of the three dofferent tree traversals:
+
+Traversal Type	Order of Operations
+In-order	 --- left → node → right
+Pre-order	--- node → left → right
+Post-order --- left → right → node
+
+In-order traversal:
+
+inOrder(root.left);
+System.out.print(root.val + " ");
+inOrder(root.right);
+
+	•	Left first, then Node, then Right.
+
+Post-order traversal:
+
+postOrder(root.left);
+postOrder(root.right);
+System.out.print(root.val + " ");
+
+	•	Left first, then Right, then Node.
+
+Pre-order traversal:
+
+System.out.print(root.val + " ");
+preOrder(root.left);
+preOrder(root.right);
+
+	•	Node first, then Left, then Right.
+
+Think of it like this:
+	•	In-order: Left → Print → Right (LNR)
+	•	Pre-order: Print → Left → Right (NLR)
+	•	Post-order: Left → Right → Print (LRN)
+
